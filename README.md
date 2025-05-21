@@ -6,8 +6,8 @@ Example on how to set up oauth with github in a cli
 
 How I made it:
 
-- proxy: https://www.lmpify.com/httpsuuithubcom-ow5mjz0
-- oauth: https://www.lmpify.com/httpsuithubcomj-m8tfk00
+- ![](https://b.lmpify.com/Token%20Exchange%20Proxy)](https://www.lmpify.com/httpsuuithubcom-ow5mjz0)
+- ![](https://b.lmpify.com/OAuth%20cli)](https://www.lmpify.com/httpsuithubcomj-m8tfk00)
 
 How to set it up:
 
