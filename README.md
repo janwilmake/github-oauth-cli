@@ -1,6 +1,6 @@
 # GitHub OAuth CLI Template
 
-[![janwilmake/github-oauth-cli context](https://badge.forgithub.com/janwilmake/github-oauth-cli)](https://uithub.com/janwilmake/github-oauth-cli)
+[![janwilmake/github-oauth-cli context](https://badge.forgithub.com/janwilmake/github-oauth-cli)](https://uithub.com/janwilmake/github-oauth-cli) [Click Here To Prompt It!](https://lmpify.com?prompt=https://uithub.com/janwilmake/github-oauth-cli please make a new CLI with github oauth that ...)
 
 Example on how to set up oauth with github in a cli
 
