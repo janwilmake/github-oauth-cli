@@ -1,5 +1,7 @@
 # GitHub OAuth CLI Template
 
+[![janwilmake/github-oauth-cli context](https://badge.forgithub.com/janwilmake/github-oauth-cli)](https://uithub.com/janwilmake/github-oauth-cli)
+
 Example on how to set up oauth with github in a cli
 
 How I made it:
